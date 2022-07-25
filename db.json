@@ -116,5 +116,58 @@
            {"id":4,
            "tipoNombre":"Camioneta",
            "valor":60000}
-          ]
+          ],
+   "Vehiculo":[
+      {
+         "id":1,
+         "patente":"hgjk-1",
+         "año":2015,
+         "marca":"Mazda",
+         "tipo":"Suv",
+         "estado":True
+      },
+      {
+         "id":2,
+         "patente":"hgjk-2",
+         "año":2010,
+         "marca":"Toyota",
+         "tipo":"Suv",
+         "estado":True
+      },
+      {
+         "id":3,
+         "patente":"hgjk-3",
+         "año":2022,
+         "marca":"Subaru",
+         "tipo":"Suv",
+         "estado":False
+      },
+      {
+         "id":4,
+         "patente":"hgjk-4",
+         "año":2015,
+         "marca":"Nissan",
+         "tipo":"Camioneta",
+         "estado":True
+      },
+      {
+         "id":5,
+         "patente":"hgjk-5",
+         "año":2020,
+         "marca":"Suzuki",
+         "tipo":"Citycar",
+         "estado":True
+      },
+      {
+         "id":6,
+         "patente":"hgjk-6",
+         "año":2016,
+         "marca":"Mazda",
+         "tipo":"Sedan",
+         "estado":False
+      }
+         
+      
+      }
+   ]
 }
