@@ -132,7 +132,8 @@
          "año":2015,
          "marca":"Mazda",
          "tipo":"Suv",
-         "estado":true
+         "estado":true,
+         "img":
       },
       {
          "id":2,
@@ -140,7 +141,8 @@
          "año":2010,
          "marca":"Toyota",
          "tipo":"Suv",
-         "estado":true
+         "estado":true,
+         "img":"https://www.toyota.cl/media/images/LATERAL_RAV41808-1002-sf-01.max-500x240.png"
       },
       {
          "id":3,
@@ -148,7 +150,8 @@
          "año":2022,
          "marca":"Subaru",
          "tipo":"Suv",
-         "estado":false
+         "estado":false,
+         "img":"https://www.subaru.cl/subaru/site/artic/20220411/imag/foto_0000000120220411210715/xv-hev.png"
       },
       {
          "id":4,
@@ -156,7 +159,8 @@
          "año":2015,
          "marca":"Nissan",
          "tipo":"Camioneta",
-         "estado":true
+         "estado":true,
+         "img":
       },
       {
          "id":5,
@@ -164,7 +168,8 @@
          "año":2020,
          "marca":"Suzuki",
          "tipo":"Citycar",
-         "estado":true
+         "estado":true,
+         "img":
       },
       {
          "id":6,
@@ -172,7 +177,8 @@
          "año":2016,
          "marca":"Mazda",
          "tipo":"Sedan",
-         "estado":false
+         "estado":false,
+         "img":
       }
    ]
 }
