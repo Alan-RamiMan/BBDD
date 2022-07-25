@@ -102,5 +102,19 @@
          "id":10,
          "marca":"MG"
       }
-   ]
+   ],
+   "Tipo":[
+           {"id":1,
+           "tipoNombre":"CityCar",
+           "valor":32000},
+           {"id":2,
+           "tipoNombre":"Sedan",
+           "valor":40000},
+           {"id":3,
+           "tipoNombre":"Suv",
+           "valor":51000},
+           {"id":4,
+           "tipoNombre":"Camioneta",
+           "valor":60000},
+          ]
 }
