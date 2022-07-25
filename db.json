@@ -60,5 +60,47 @@
          "telefono":12345678,
          "avatar":"https://reqres.in/img/faces/6-image.jpg"
       }
+   ],
+   "Marcas_vehiculos":[
+      {
+         "id":1,
+         "marca":"Mazda"
+      },
+      {
+         "id":2,
+         "marca":"Suzuki"
+      },
+      {
+         "id":3,
+         "marca":"Subaru"
+      },
+      {
+         "id":4,
+         "marca":"Toyota"
+      },
+      {
+         "id":5,
+         "marca":"Honda"
+      },
+      {
+         "id":6,
+         "marca":"Kia"
+      },
+      {
+         "id":7,
+         "marca":"Hyundai"
+      },
+      {
+         "id":8,
+         "marca":"Mitsubishi"
+      },
+      {
+         "id":9,
+         "marca":"Nissan"
+      },
+      {
+         "id":10,
+         "marca":"MG"
+      }
    ]
 }
