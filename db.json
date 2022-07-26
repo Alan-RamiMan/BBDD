@@ -129,7 +129,7 @@
       {
          "id":1,
          "patente":"hgjk-1",
-         "año":2015,
+         "ano":2015,
          "marca":"Mazda",
          "tipo":"Suv",
          "estado":true,
@@ -138,7 +138,7 @@
       {
          "id":2,
          "patente":"hgjk-2",
-         "año":2010,
+         "ano":2010,
          "marca":"Toyota",
          "tipo":"Suv",
          "estado":true,
@@ -147,7 +147,7 @@
       {
          "id":3,
          "patente":"hgjk-3",
-         "año":2022,
+         "ano":2022,
          "marca":"Subaru",
          "tipo":"Suv",
          "estado":false,
@@ -156,7 +156,7 @@
       {
          "id":4,
          "patente":"hgjk-4",
-         "año":2015,
+         "ano":2015,
          "marca":"Honda",
          "tipo":"Camioneta",
          "estado":true,
@@ -165,7 +165,7 @@
       {
          "id":5,
          "patente":"hgjk-5",
-         "año":2020,
+         "ano":2020,
          "marca":"Suzuki",
          "tipo":"Citycar",
          "estado":true,
@@ -174,7 +174,7 @@
       {
          "id":6,
          "patente":"hgjk-6",
-         "año":2016,
+         "ano":2016,
          "marca":"Mazda",
          "tipo":"Sedan",
          "estado":false,
