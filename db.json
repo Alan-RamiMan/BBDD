@@ -133,7 +133,7 @@
          "marca":"Mazda",
          "tipo":"Suv",
          "estado":true,
-         "img":
+         "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/images/versions/2022-05-20-CX-5_KFLA_KSM2LAH_46V_KD4_EXT_High_TransparentPNG.png"
       },
       {
          "id":2,
@@ -157,10 +157,10 @@
          "id":4,
          "patente":"hgjk-4",
          "año":2015,
-         "marca":"Nissan",
+         "marca":"Honda",
          "tipo":"Camioneta",
          "estado":true,
-         "img":
+         "img":"https://autos.honda.cl/wp-content/uploads/2019/08/mini-ridgeline.jpg.webp"
       },
       {
          "id":5,
@@ -169,7 +169,7 @@
          "marca":"Suzuki",
          "tipo":"Citycar",
          "estado":true,
-         "img":
+         "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/images/versions/1655430789-RoM2scGpCl.webp"
       },
       {
          "id":6,
@@ -178,7 +178,7 @@
          "marca":"Mazda",
          "tipo":"Sedan",
          "estado":false,
-         "img":
+         "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/medias/mazda/migration/front-image/mazda2-sedan/feature-menu-mazda2-sedan-small.png"
       }
    ]
 }
