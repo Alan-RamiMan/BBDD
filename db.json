@@ -151,7 +151,10 @@
          "patente":"hgjk-1",
          "ano":2015,
          "marca":"Mazda",
-         "categoria":{"tipo":"Suv","valor":"51000"},
+         "categoria":{
+            "tipo":"Suv",
+            "valor":"51000"
+         },
          "estado":true,
          "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/images/versions/2022-05-20-CX-5_KFLA_KSM2LAH_46V_KD4_EXT_High_TransparentPNG.png"
       },
@@ -160,7 +163,10 @@
          "patente":"hgjk-2",
          "ano":2010,
          "marca":"Toyota",
-         "categoria":{"tipo":"Suv","valor":"51000"},
+         "categoria":{
+            "tipo":"Suv",
+            "valor":"51000"
+         },
          "estado":true,
          "img":"https://www.toyota.cl/media/images/LATERAL_RAV41808-1002-sf-01.max-500x240.png"
       },
@@ -169,7 +175,10 @@
          "patente":"hgjk-3",
          "ano":2022,
          "marca":"Subaru",
-         "categoria":{"tipo":"Suv","valor":"51000"},
+         "categoria":{
+            "tipo":"Suv",
+            "valor":"51000"
+         },
          "estado":false,
          "img":"https://www.subaru.cl/subaru/site/artic/20220411/imag/foto_0000000120220411210715/xv-hev.png"
       },
@@ -178,7 +187,10 @@
          "patente":"hgjk-4",
          "ano":2015,
          "marca":"Honda",
-         "categoria":{"tipo":"Camioneta","valor":"60000"},
+         "categoria":{
+            "tipo":"Camioneta",
+            "valor":"60000"
+         },
          "estado":true,
          "img":"https://autos.honda.cl/wp-content/uploads/2019/08/mini-ridgeline.jpg.webp"
       },
@@ -187,7 +199,10 @@
          "patente":"hgjk-5",
          "ano":2020,
          "marca":"Suzuki",
-         "categoria":{"tipo":"Citycar","valor":"32000"},
+         "categoria":{
+            "tipo":"Citycar",
+            "valor":"32000"
+         },
          "estado":true,
          "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/images/versions/1655430789-RoM2scGpCl.webp"
       },
@@ -196,7 +211,10 @@
          "patente":"hgjk-6",
          "ano":2016,
          "marca":"Mazda",
-         "categoria":{"tipo":"Sedan","valor":"40000"},
+         "categoria":{
+            "tipo":"Sedan",
+            "valor":"40000"
+         },
          "estado":false,
          "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/medias/mazda/migration/front-image/mazda2-sedan/feature-menu-mazda2-sedan-small.png"
       }
