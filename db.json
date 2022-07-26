@@ -167,7 +167,7 @@
          "patente":"hgjk-5",
          "ano":2020,
          "marca":"Suzuki",
-         "categoria":{"tipo":"Citycar","valor":"32000"},,
+         "categoria":{"tipo":"Citycar","valor":"32000"},
          "estado":true,
          "img":"https://dercocenter-api.s3.us-east-1.amazonaws.com/images/versions/1655430789-RoM2scGpCl.webp"
       },
